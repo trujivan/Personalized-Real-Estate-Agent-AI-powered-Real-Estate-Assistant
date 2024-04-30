@@ -8,7 +8,7 @@ This repository contains the code for my Udacity Generative AI Nanodegree projec
 
 To run the code, you need to install the required dependencies. You can do this using pip:
 
-```bash
+```requirements
 pip install langchain
 pip install OpenAI
 pip install chromadb
